@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author igonzaleziglesias
+ * @author jalvarezotero
  */
 public class Loto extends javax.swing.JFrame {
 
